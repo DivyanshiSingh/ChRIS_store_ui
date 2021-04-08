@@ -35,7 +35,7 @@ const WelcomeChRIS = () => (
           />
           <p className="welcome-chris-video-desc">
             {'"'}Creating ChRIS{'"'} is an upcoming video series by Red Hat films that
-            focuses on the ChRIS project - its purpose, development, milestones.
+            focuse on the ChRIS project - its purpose, development, milestones.
           </p>
         </div>
       </div>
